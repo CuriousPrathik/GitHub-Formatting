@@ -1,6 +1,8 @@
 **Basic writing and formatting syntax**
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
+### Most commonly used commands 
+
 ## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
