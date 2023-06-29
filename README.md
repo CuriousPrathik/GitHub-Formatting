@@ -1,4 +1,4 @@
-**Basic writing and formatting syntax**
+# **Basic writing and formatting syntax**
 
 ### This Git repo only contains most commonly used commands.
 
